@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <title>Generate a Random Sequence</title>
+    </head>
+    <body>
+        <div>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Random Passcode (passcode attempt #@TempData["attempt"])</th>
+                    </tr>
+                </thead>
+                <tr>
+                    <td>@TempData["passcode"]</td>
+                </tr>
+                <tr>
+                    <td>
+                        <form action="/create" method="POST">
+                            <input type="submit" value="Generate">
+                        </form>
+                    </td>
+                 </tr>
+                <tr>
+                    <td>
+                        <a href="/reset">Reset</a>
+                    </td>
+                 </tr>
+
+            </table>
+        </div>
+        <hr>
+    </body>
+</html>

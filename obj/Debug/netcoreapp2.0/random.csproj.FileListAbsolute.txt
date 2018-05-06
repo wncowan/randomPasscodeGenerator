@@ -1,0 +1,10 @@
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/random/bin/Debug/netcoreapp2.0/random.deps.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/random/bin/Debug/netcoreapp2.0/random.runtimeconfig.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/random/bin/Debug/netcoreapp2.0/random.runtimeconfig.dev.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/random/bin/Debug/netcoreapp2.0/random.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/random/bin/Debug/netcoreapp2.0/random.pdb
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/random/obj/Debug/netcoreapp2.0/random.csproj.CoreCompileInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/random/obj/Debug/netcoreapp2.0/random.AssemblyInfoInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/random/obj/Debug/netcoreapp2.0/random.AssemblyInfo.cs
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/random/obj/Debug/netcoreapp2.0/random.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/random/obj/Debug/netcoreapp2.0/random.pdb
